@@ -1,0 +1,7 @@
+{
+  "latest_model": "best_model.pth",
+  "latest_class_to_idx": "class_to_idx_82.json",
+  "num_classes": 82,
+  "best_val_acc": 0.9602122015915119,
+  "saved_at": "20250516_021316"
+}
